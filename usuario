@@ -1,16 +1,1 @@
-# tomar los datos de los usuarios(nombres, facultad y/o carrera y codigo)
-# deben de clasificarse segun el usuario (estudiante,docente o administrativo)
-class usuarios :
-    def __init__(self,nombres,facultad,carrera,codigo):
-        self.nombre= nombres
-        nombres=[]
-        self.facultad=facultad
-        facultad=[]
-        self.carrera= carrera
-        carrera= []
-        self.codigo=codigo
-        codigo=[]
 
-    def Guardar (self):
-       pass
-       
